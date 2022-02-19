@@ -3,7 +3,7 @@ Part of https://www.theforage.com/virtual-internships/hzmoNKtzvAzXsEqx8?ref=29RC
 The VE introduce SocialBuzz, a small company that specializes in social media and content creation. They have large amount of data coming through everyday
 that needs to be analyzed. My part here is to conclude what are the top categories based on the provided datasets.
 
-I choosed 3 datasets; Content to aggregate the overall content and Reactions to determine each reaction on each content type, then ReactionTypes so I can quantify 
+I chose 3 datasets; Content to aggregate the overall content and Reactions to determine each reaction on each content type, then ReactionTypes so I can quantify 
 the reactions.
 
 Here I clean, join and reshape the data using SQL, in order for it to be usable in Tableau.
