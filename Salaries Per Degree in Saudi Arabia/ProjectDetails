@@ -1,1 +1,6 @@
 
+Public dataset isssued by GASTAS and collected into one concise file by majedalhulayel On Kaggle
+https://www.kaggle.com/majedalhulayel/average-salaries-by-education-in-saudi-arabia/version/1?select=Salary+by+Education.csv
+
+I used Pandas and other packages to explore the data, although it was limited and small, I was able to draw insights and answer some questions 
+all details and comments in the notebook.
